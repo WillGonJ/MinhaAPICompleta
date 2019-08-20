@@ -1,0 +1,12 @@
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Projeto\Cursos\DesenvolvedorIO\Asp.Net Core\WebAPI\Projetos\01 MinhaAPICompleta\MinhaAPICompleta\srv\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
