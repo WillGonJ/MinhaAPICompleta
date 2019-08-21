@@ -31,7 +31,7 @@ namespace DevIO.Api.Controllers
             _mapper = mapper;
             _enderecoRepository = enderecoRepository;
         }
-        [AllowAnonymous]
+        
         [HttpGet]
         public async Task<IEnumerable<FornecedorViewModel>> ObterTodos()
         {
@@ -51,7 +51,7 @@ namespace DevIO.Api.Controllers
 
             return fornecedor;
         }
-        [ClaimsAuthorize("Fornecedor", "Adiconar")]
+        [ClaimsAuthorize("Fornecedor", "Adicionar")]
         [HttpPost]
         public async Task<ActionResult<FornecedorViewModel>> Adicionar(FornecedorViewModel fornecedorViewModel)
         {
@@ -96,7 +96,7 @@ namespace DevIO.Api.Controllers
             return _mapper.Map<EnderecoViewModel>(await _enderecoRepository.ObterPorId(id));
             
         }
-
+        [ClaimsAuthorize("Fornecedor", "Atualizar")]
         [HttpPut("atualizar-endereco/{id:guid}")]
         public async Task<IActionResult> AtualizarEndereco(Guid id, EnderecoViewModel enderecoViewModel)
         {

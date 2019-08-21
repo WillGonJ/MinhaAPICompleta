@@ -32,7 +32,7 @@ namespace DevIO.Api.Extensions
 
         public RequisitoClaimFilter(Claim claim)
         {
-            _claim = claim
+            _claim = claim;
         }
 
         public void OnAuthorization(AuthorizationFilterContext context)
