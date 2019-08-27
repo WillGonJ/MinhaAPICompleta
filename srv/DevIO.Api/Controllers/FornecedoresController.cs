@@ -77,7 +77,7 @@ namespace DevIO.Api.Controllers
                         
             return CustomResponse(fornecedorViewModel);
         }
-        [ClaimsAuthorize("Fornecedor", "Remover")]
+        [ClaimsAuthorize("Fornecedor", "Exlcluir")]
         [HttpDelete("{id:guid}")]
         public async Task<ActionResult<FornecedorViewModel>> Excluir(Guid id)
         {
