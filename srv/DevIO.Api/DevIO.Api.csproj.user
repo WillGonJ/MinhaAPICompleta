@@ -4,7 +4,7 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>DevIO.Api</ActiveDebugProfile>
+    <ActiveDebugProfile>IIS - Prod</ActiveDebugProfile>
     <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>
