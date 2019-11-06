@@ -19,8 +19,9 @@ namespace DevIO.Api.Configuration
         public static IServiceCollection AddIdentityConfiguration(this IServiceCollection services,
             IConfiguration configuration)
         {
-            services.AddDbContext<ApplicationDbContext>(optionsAction: options =>            
+            services.AddDbContext<ApplicationDbContext>(optionsAction: options =>
                 options.UseSqlServer(configuration.GetConnectionString(name: "DefaultConnection")));
+                //options.UseSqlServer(configuration.GetConnectionString(name: "DefaultConnection")));
 
             services.AddDefaultIdentity<IdentityUser>()
                 .AddRoles<IdentityRole>()

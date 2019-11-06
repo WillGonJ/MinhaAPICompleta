@@ -34,7 +34,7 @@ namespace DevIO.Api.V1.Controllers
             _mapper = mapper;
             _enderecoRepository = enderecoRepository;
         }
-        [AllowAnonymous]
+        //[AllowAnonymous]
         [HttpGet]
         public async Task<IEnumerable<FornecedorViewModel>> ObterTodos()
         {

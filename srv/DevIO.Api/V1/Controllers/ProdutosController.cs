@@ -35,7 +35,7 @@ namespace DevIO.Api.V1.Controllers
             _mapper = mapper;
 
         }
-
+        
         [HttpGet]
         public async Task<IEnumerable<ProdutoViewModel>> ObterTodos()
         {

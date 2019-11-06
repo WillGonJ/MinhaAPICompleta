@@ -6,5 +6,6 @@
   <PropertyGroup>
     <ActiveDebugProfile>IIS - Prod</ActiveDebugProfile>
     <ShowAllFiles>false</ShowAllFiles>
+    <NameOfLastUsedPublishProfile>DevIOApi1 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
