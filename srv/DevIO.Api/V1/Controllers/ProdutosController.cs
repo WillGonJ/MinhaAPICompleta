@@ -127,7 +127,7 @@ namespace DevIO.Api.V1.Controllers
             return Ok(file);
         }
 
-        [ClaimsAuthorize("Produto", "Escluir")]
+        [ClaimsAuthorize("Produto", "Excluir")]
         [HttpDelete("{id:guid}")]
         public async Task<ActionResult<ProdutoViewModel>> Excluir(Guid id)
         {
